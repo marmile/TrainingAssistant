@@ -1,5 +1,6 @@
 # TrainingAssistant
 
+[Polska wersja](README_PL.md)
 TrainingAssistant is a mobile app for Android that helps users manage their workout plans. The app allows users to create training blocks, add exercises, configure breaks and reminders, and provides a detailed view of each training block.
 
 ## Features
@@ -52,5 +53,3 @@ We welcome contributions. To contribute:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-[English version](README.md)
